@@ -8,6 +8,11 @@ or followed the tutorial in their own time.
 Workshops
 =========
 
+Kolkata India, 7th July 2017
+------------------------------
+* Somnath Deoghriya https://github.com/somnath711
+
+
 Pycon Zimbabwe in Harare, 24th November 2016
 ---------------------------------------------
 * Bornwell Matembudze https://github.com/bornie21
